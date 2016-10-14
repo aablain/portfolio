@@ -1,6 +1,6 @@
 # _{Portfolio}_
 
-#### _{A Brief look at Austin Blain, as Coder/WebDev}, {10/15/2016_
+#### _{A Brief look at Austin Blain, as Coder/WebDev}, {10/15/2016}_
 
 #### By _**{Austin Blain}**_
 
@@ -23,6 +23,10 @@ _{Any questions or concerns can be sent to austin.a.blain@gmail.com}_
 ## Technologies Used
 
 _{HTML, CSS, Bootstrap}_
+
+## Github Link:
+
+_{https://github.com/aablain/portfolio}_
 
 ### License
 
