@@ -2,8 +2,45 @@
   box-shadow: inset 0 0 28px #000;
 }
 
+.web1 .well:hover {
+  box-shadow: inset 0 0 28px #1A5276;
+  background-color: #EAF2F8;
+}
+
+.web2 .well:hover {
+  box-shadow: inset 0 0 28px #633974;
+  background-color: #F5EEF8;
+}
+
+.web3 .well:hover {
+  box-shadow: inset 0 0 28px #9A7D0A;
+  background-color: #FEF9E7;
+}
+
 .behind {
   background-color: #000;
+}
+
+.different {
+  color: #2980B9;
+}
+
+.me {
+  padding: 1%;
+  border-radius: 8px;
+  background: rgba(230, 230, 230, 0.5);
+}
+
+.me:hover {
+  padding: 1%;
+  border-radius: 8px;
+  box-shadow: 0 0 28px #000;
+}
+
+.space {
+  border-top: 1px solid;
+  padding-top: 87px;
+  margin-top: 65px;
 }
 
 a {
@@ -18,13 +55,9 @@ a:hover {
 
 ol {
   float: right;
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(230, 230, 230, 0.2);
 }
 
 h1 {
   font-family: 'Montserrat', sans-serif;
-}
-
-.different {
-  color: #2980B9;
 }
